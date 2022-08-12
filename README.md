@@ -9,8 +9,7 @@ Uma breve pincelada pelos pilares da Programação Orientada a Objetos que são 
 
 ### 1. [Classes (Abstração) :](https://github.com/HanselVinicius/PilaresDaPooo/tree/main/app/src/main/java/hansel/dev/orientaoaobjetos/classes) classes trabalham muito com abstrações pois são nelas que criamos objetos que são nada mais que representações do mundo real e por isso precisamos nos focar em dar a elas identidades unicas para não haver conflitos tanto no programa quanto na nossa mente 
 
-### 2. [Encapsulamento:](https://github.com/HanselVinicius/PilaresDaPooo/tree/main/app/src/main/java/hansel/dev/orientaoaobjetos/encapsulamento) Encapsulamento é utilizado para 
-### proteger variaveis ou métodos de poderem ser usadas em qualquer parte do projeto causando erros inesperados
+### 2. [Encapsulamento:](https://github.com/HanselVinicius/PilaresDaPooo/tree/main/app/src/main/java/hansel/dev/orientaoaobjetos/encapsulamento) Encpsulamento é utilizado para  proteger variaveis ou métodos de poderem ser usadas em qualquer parte do projeto causando erros inesperados
 <br>
 
 #### public: Padrão no kotlin é publico para ser usado em qualquer parte do programa
