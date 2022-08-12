@@ -1,8 +1,9 @@
 package hansel.dev.orientaoaobjetos.classes
 
 /*
-classes são poderosas e muito uteis no mundo da programação para manter oo codigo limpo e legivel pras demais pessoas que pensam em
-ler e melhorar o seu codigo
+classes trabalham muito com abstrações pois são nelas que criamos objetos que são nada mais que
+representações do mundo real e por isso precisamos nos focar em dar a elas identidades unicas para não haver
+conflitos tanto no programa quanto na nossa mente
  */
 
 
